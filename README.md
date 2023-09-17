@@ -1,13 +1,14 @@
 # Hera
 
-An app for sharing cab with college students
+A carpooling app to promote ride-sharing.
 
 ## Description
 
 Say goodbye to the hassles of commuting and embrace a smarter, more efficient, and eco-friendly way to travel. Hera leverages the power of machine learning to create a seamless and sustainable transportation experience that benefits both commuters and our planet.
 
 ## App Preview
-[![](https://i.imgur.com/aHVYgsc.png)]"App Screenshot")
+![alt text](https://i.imgur.com/aHVYgsc.png)
+![alt text](https://i.imgur.com/fQCQXXr.png)
 
 ## What's working:
 
