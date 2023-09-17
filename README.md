@@ -8,7 +8,7 @@ Say goodbye to the hassles of commuting and embrace a smarter, more efficient, a
 
 ## App Preview
 ![alt text](https://i.imgur.com/aHVYgsc.png)
-![alt text](https://i.imgur.com/nhi49Zu.png))
+![alt text](https://i.imgur.com/nhi49Zu.png)
 
 ## What's working:
 
